@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "owner": "Oyi Buttermilk Chicken",
+        "image_url": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/064b489c-ddf8-47b8-927a-74d29a35b2cb_CAESIhoOEgwKAwj0AxIDCPQDGAEaDhoMCICgHxICAQIYZCBkKFU.png",
+        "photoProfile": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPVGm-5kkzIay5BqY15QVvFRwKVWFNTNSVqg&s",
+        "productName": "Paket Ayam Bak",
+        "location": "Malang",
+        "address": "Jl. Pahlawan No.1, Malang",
+        "price": "6500",
+        "timeOver": "20.00",
+        "description": "Ayam bakar madu adalah hidangan ayam bakar khas yang memadukan cita rasa manis dan gurih.",
+        "category": "Makanan",
+        "stok": 8,
+        "date": "29-11-2024"
+    },
+    {
+        "id": 2,
+        "owner": "Oyi Buttermilk Chicken",
+        "image_url": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/064b489c-ddf8-47b8-927a-74d29a35b2cb_CAESIhoOEgwKAwj0AxIDCPQDGAEaDhoMCICgHxICAQIYZCBkKFU.png",
+        "photoProfile": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPVGm-5kkzIay5BqY15QVvFRwKVWFNTNSVqg&s",
+        "productName": "Rice Bowl Ayam Bakar Madu",
+        "location": "Malang",
+        "address": "Jl. Pahlawan No.1, Malang",
+        "price": "6500",
+        "timeOver": "20.00",
+        "description": "Ayam bakar madu adalah hidangan ayam bakar khas yang memadukan cita rasa manis dan gurih.",
+        "category": "Makanan",
+        "stok": 8,
+        "date": "29-11-2024"
+    },
+    {
+        "id": 3,
+        "owner": "Oyi Buttermilk Chicken",
+        "image_url": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/064b489c-ddf8-47b8-927a-74d29a35b2cb_CAESIhoOEgwKAwj0AxIDCPQDGAEaDhoMCICgHxICAQIYZCBkKFU.png",
+        "photoProfile": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPVGm-5kkzIay5BqY15QVvFRwKVWFNTNSVqg&s",
+        "productName": "Rica-rica Ayam Bakar Madu",
+        "location": "Malang",
+        "address": "Jl. Pahlawan No.1, Malang",
+        "price": "6500",
+        "timeOver": "20.00",
+        "description": "Ayam bakar madu adalah hidangan ayam bakar khas yang memadukan cita rasa manis dan gurih.",
+        "category": "Makanan",
+        "stok": 8,
+        "date": "29-11-2024"
+    },
+    {
+        "id": 4,
+        "owner": "Oyi Buttermilk Chicken",
+        "image_url": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/064b489c-ddf8-47b8-927a-74d29a35b2cb_CAESIhoOEgwKAwj0AxIDCPQDGAEaDhoMCICgHxICAQIYZCBkKFU.png",
+        "photoProfile": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPVGm-5kkzIay5BqY15QVvFRwKVWFNTNSVqg&s",
+        "productName": "Burger Big",
+        "location": "Malang",
+        "address": "Jl. Pahlawan No.1, Malang",
+        "price": "6500",
+        "timeOver": "20.00",
+        "description": "Ayam bakar madu adalah hidangan ayam bakar khas yang memadukan cita rasa manis dan gurih.",
+        "category": "Makanan",
+        "stok": 8,
+        "date": "29-11-2024"
+    }
+]

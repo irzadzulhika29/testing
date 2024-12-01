@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "name": "Romeo Ferdinand",
+        "profile_picture": "https://t4.ftcdn.net/jpg/02/14/74/61/360_F_214746128_31JkeaP6rU0NzzzdFC4khGkmqc8noe6h.jpg",
+        "captions": "Saya baru saja berpartisipasi dalam kegiatan donor darah di PMI Surabaya. Mari berdonor darah untuk membantu sesama!",
+        "upload_at": "2024-12-23",
+        "image_url": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/charity-campaign-template-design-52aeebd06174ed480e59333980ca9b84_screen.jpg?ts=1644378902",
+        "likes": 100
+    },
+    {
+        "id": 2,
+        "name": "Alice Johnson",
+        "profile_picture": "https://cdn.pixabay.com/photo/2016/03/26/22/13/man-1281562_960_720.jpg",
+        "captions": "Hari ini saya mengunjungi panti asuhan lokal dan menghabiskan waktu dengan anak-anak di sana. Rasanya luar biasa bisa berbagi kebahagiaan!",
+        "upload_at": "2024-12-22",
+        "image_url": "https://i0.wp.com/bmh.or.id/storage/2023/01/sedekah-makanan.jpg?fit=1276%2C718&ssl=1",
+        "likes": 200
+    },
+    {
+        "id": 3,
+        "name": "Michael Smith",
+        "profile_picture": "https://images.pexels.com/photos/936119/pexels-photo-936119.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "captions": "Mengikuti acara penggalangan dana untuk membantu korban bencana alam. Terima kasih kepada semua yang sudah berpartisipasi!",
+        "upload_at": "2024-12-21",
+        "image_url": "https://www.shutterstock.com/image-photo/happy-volunteer-portrait-people-park-600nw-2507688333.jpg",
+        "likes": 150
+    }
+]

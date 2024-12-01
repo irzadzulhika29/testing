@@ -1,0 +1,11 @@
+{
+    "admin": {
+        "username": "admin123",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEabHWJsYzB6L6wB7QoctcSmAklswPGJJevA&s",
+        "name": "Atmin Rusdi",
+        "password": "rusdi123",
+        "location": "Ngawi, Indonesia",
+        "email": "rusdi@example.id",
+        "phone_number": "081234567890"
+    }
+}
