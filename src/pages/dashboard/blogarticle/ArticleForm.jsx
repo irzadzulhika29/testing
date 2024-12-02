@@ -31,10 +31,15 @@ const ArticleForm = () => {
 
 
     const handleInputChange = (e) => {
-        clearError(e.target);
-        updatePreview(e.target.form);
+        const input = e.target;
+        clearError(input);
+        
+        if (input.name === 'title' && input.value.length > 25) {
+            document.getElementById('titleError').textContent = 'Judul tidak boleh lebih dari 25 karakter';
+        }
+        
+        updatePreview(input.form);
     };
-
     const handleImageChange = (e) => {
         const file = e.target.files[0];
         if (file) {
@@ -69,7 +74,7 @@ const ArticleForm = () => {
         const content = form.content.value;
         const category = form.category.value;
         const imageFile = form.image.files[0];
-
+    
         // Reset error messages
         document.getElementById('titleError').textContent = '';
         document.getElementById('titleError').className = 'text-red-500 text-sm';
@@ -80,11 +85,16 @@ const ArticleForm = () => {
         document.getElementById('imageError').textContent = '';
         document.getElementById('imageError').className = 'text-red-500 text-sm';
         document.getElementById('formError').textContent = '';
-
+    
         if (!title.trim()) {
             document.getElementById('titleError').textContent = 'Judul harus diisi';
             isValid = false;
+        } else if (title.length > 25) {
+            document.getElementById('titleError').textContent = 'Judul tidak boleh lebih dari 25 karakter';
+            isValid = false;
         }
+        
+        // Validasi lainnya tetap sama
         if (!content.trim()) {
             document.getElementById('contentError').textContent = 'Konten harus diisi';
             isValid = false;
@@ -97,7 +107,7 @@ const ArticleForm = () => {
             document.getElementById('imageError').textContent = 'Foto harus diunggah';
             isValid = false;
         }
-
+    
         return isValid;
     };
 
